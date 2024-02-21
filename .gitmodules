@@ -1,0 +1,4 @@
+[submodule "new-york-buildings"]
+	path = new-york-buildings
+	url = https://github.com/osgav/new-york-buildings
+	branch = main
