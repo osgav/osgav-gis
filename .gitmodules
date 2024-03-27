@@ -5,5 +5,4 @@
 [submodule "edinburgh-paths-network"]
 	path = edinburgh-paths-network
 	url = https://github.com/osgav/edinburgh-paths-network
-[submodules "edinburgh-paths-network"]
 	branch = main
