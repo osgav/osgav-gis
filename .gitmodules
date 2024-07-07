@@ -6,3 +6,7 @@
 	path = edinburgh-paths-network
 	url = https://github.com/osgav/edinburgh-paths-network
 	branch = main
+[submodule "edinburgh-bookshops"]
+	path = edinburgh-bookshops
+	url = https://github.com/osgav/edinburgh-bookshops
+	branch = main
